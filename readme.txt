@@ -1,9 +1,12 @@
 ===========================================================
-BMDS2013 Data Engineering Assignment – readme.txt
+README
 ===========================================================
 
-Team Reference: S1G2S-3
-Submission Date: 29 August 2025
+Contributors:
+- Adam Ho Swee En
+- Toh Ming Yang
+- Darren Ong Der Ren
+- Elisha Loh Tien Rong
 
 -----------------------------------------------------------
 1. Project Title:
